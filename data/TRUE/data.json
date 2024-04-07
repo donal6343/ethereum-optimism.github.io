@@ -1,0 +1,16 @@
+{
+  "name": "TrueshotToken",
+  "symbol": "TRUE",
+  "decimals": 18,
+  "description": "$True tokens to mint Trueshots",
+  "website": "www.trueshot.io",
+  "twitter": "",
+  "tokens": {
+    "ethereum": {
+      "address": "0x53B4FDe73Abe08421CE946c2d282042f955db8fC"
+    },
+    "base-sepolia": {
+      "address": "0x785d494f6d6ef0535036604e63bf180c7f5e8fd5"
+    }
+  }
+}
